@@ -17,4 +17,6 @@
 ## Project Objective
 ~~Source necessary components (CPU cooler, RAM) and provision this build as a dedicated security server for learning **Active Directory** environments in a Windows Server sandbox.~~
 **Planning objective complete, build fully functional and beginning pivot to DIY NAS**
+
+
 *Note: This system was entirely assembled, wired, and configured by hand from individual components.*
