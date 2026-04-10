@@ -12,7 +12,7 @@
 | **Storage 1b** | WD Green 120GB SATA SSD | Main OS Drive | Functional |
 | **Storage 2** | WD 320GB MyBook HDD | Salvaged |
 | **Storage 3** | Seagate 1TB HDD | Salvaged |
-| **Storage 4** | Samsung 640GB HDD | |
+| **Storage 4** | Samsung 640GB HDD | Salvaged |
 
 ## Project Objective
 ~~Source necessary components (CPU cooler, RAM) and provision this build as a dedicated security server for learning **Active Directory** environments in a Windows Server sandbox.~~
